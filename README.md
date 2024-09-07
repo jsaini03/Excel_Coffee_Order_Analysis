@@ -9,8 +9,6 @@ The primary objective of this analysis includes identifying top customers, sale 
 The coffee order dashboard will give insights to boost sales and to drive startegic expansion efforts
 ### Data Source
 ![Coffee Orders Dataset](https://github.com/mochen862/excel-project-coffee-sales.git)
-### Exploratory Data Analysis Dashboard
-![Dashboard](https://github.com/jsaini03/Excel_Coffee_Order_Analysis/blob/main/Coffee_Orders_Analysis_Dashboard.xlsx)
 ### Data Overview
 Data on coffee sales are divided into 3 spreadsheets:
 |Orders|              
@@ -66,11 +64,12 @@ The techniques employed to retrieve data from the Customers Table involve the ut
 - Unit Price and Sales Column: Changed to currency and $ symbol was added.
 - Loyal Card: Added a new column that checks whether the customer has a loyalty card or not.
 ### Pivot Table and Dashboard:
-* Total Sales Sheet
+* Total Sales Sheet:
 A pivot table titled "TotalSales" was generated with the purpose of visually representing the aggregate sales across different time periods alongwith 2D Line Chart and 3 Slicers
-* Country Bar Chart Sheet
+* Country Bar Chart Sheet :
   Added a new bar graph to represent the countries with the highest sales figures in descending order.
-* Top 5 Customers
+* Top 5 Customers:
   Added a new bar graph and added customer names to the axis category, sorted the whole data in descending order, and then applied the top 5 filter.
-* Dashboard
-  Created a “Dashboard”, where the interactive visuals will be presented.
+* Dashboard :
+  !["Dashboard”](/Excel_coffe_analysis_dashboard.jpg)
+  
